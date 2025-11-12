@@ -1,0 +1,139 @@
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsF.D961E5ED.Up2Date
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.InitialCreate.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.InitialCreate1.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.AddEmailToUser.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsF.D961E5ED.Up2Date
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.InitialCreate.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.GenerateResource.cache
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.CreateCategoriesTable.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsF.D961E5ED.Up2Date
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.InitialCreate.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.TaskMigration.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.newMigration.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.AssemblyReference.cache
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsF.D961E5ED.Up2Date
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.InitialCreate.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.GenerateResource.cache
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.AssemblyReference.cache
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsF.D961E5ED.Up2Date
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.AddCategoryIdToNotes.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsF.D961E5ED.Up2Date
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.Migrations.InitialCreate.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1.Data\obj\Debug\WindowsFormsApp1.Data.csproj.GenerateResource.cache

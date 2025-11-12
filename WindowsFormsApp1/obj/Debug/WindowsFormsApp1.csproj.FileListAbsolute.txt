@@ -1,0 +1,406 @@
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomeForm.resources
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\hp\Desktop\info\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SignInForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllNotesForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\.NetProjects\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllNotesForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SigninForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\FinalProject (2)\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllNotesForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SigninForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SigninForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DashboardForm.resources
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hp\Desktop\info\FinalProject\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryNote.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DashboardForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryNote.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.categoryForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SigninForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DashboardForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryNote.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.categoryForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SigninForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.Data.dll.config
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DashboardForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryNote.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllTasksForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CategoryCardControl.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.categoryForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AllCategoriesForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteCardControl.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.SigninForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NoteForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignupForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskCardControl.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TaskForm.resources
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\FinalProjectv1\FinalProjectv0\FinalProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

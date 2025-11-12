@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\hp\\desktop\\finalprojectv1\\finalprojectv0\\finalproject\\windowsformsapp1\\tasksform\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tasksform\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\allnotesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\allnotesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\tasksform\\alltasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tasksform\\alltasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\migrations\\202505131227115_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\migrations\\202505131227115_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\tasksform\\alltasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tasksform\\alltasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\repositories\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\repositories\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\notecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\notecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\notecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\notecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\noteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\allnotesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\allnotesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\allnotesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\notesform\\allnotesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\categoriesform\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\categoriesform\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\categoriesform\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\categoriesform\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\categoriesform\\allcategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\categoriesform\\allcategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\categoriesform\\allcategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\categoriesform\\allcategoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\tasksform\\taskcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tasksform\\taskcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\tasksform\\taskcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tasksform\\taskcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\tasksform\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\tasksform\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1.data\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DF66BB-723D-4D1D-8342-C672F1A406D0}|WindowsFormsApp1.Data\\WindowsFormsApp1.Data.csproj|solutionrelative:windowsformsapp1.data\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\categoriesform\\catform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\categoriesform\\catform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.Forms.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\notesform\\notecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.Forms.csproj|solutionrelative:windowsformsapp1\\notesform\\notecardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\windowsformsapp1\\categoriesform\\categorycardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD50D568-C91E-497F-AB30-41AFC7D22268}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\categoriesform\\categorycardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 361,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1948668853:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1316228269:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\App.config",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T17:36:32.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\App.config",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\App.config",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T17:36:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllTasksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\AllTasksForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TasksForm\\AllTasksForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\AllTasksForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\TasksForm\\AllTasksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:01:08.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllNotesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\AllNotesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\AllNotesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\AllNotesForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\AllNotesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:10:07.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TasksForm\\TaskForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\TasksForm\\TaskForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:24:03.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202505131227115_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Migrations\\202505131227115_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Migrations\\202505131227115_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Migrations\\202505131227115_InitialCreate.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Migrations\\202505131227115_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:39:26.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAYAAACAZmZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:38:45.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllTasksForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\AllTasksForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TasksForm\\AllTasksForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\AllTasksForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TasksForm\\AllTasksForm.cs",
+              "ViewState": "AgIAAAoAAABgAAAAAAAwwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:01:22.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:49:06.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:48:18.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Repositories\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Repositories\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Repositories\\INoteRepository.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Repositories\\INoteRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAxwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:00:53.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:21:08.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoteCardControl.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:10:58.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\MainForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:56:58.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Class1.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:36:20.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwD0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:29:35.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NoteCardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\NoteCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:09:37.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AllNotesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\AllNotesForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\AllNotesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\AllNotesForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\AllNotesForm.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:13:18.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NoteForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\NoteForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\NoteForm.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:15:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:21:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NoteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\NoteForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\NoteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:09:34.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CategoriesForm\\CategoryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:26:34.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AllNotesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\AllNotesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\AllNotesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\AllNotesForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\NotesForm\\AllNotesForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:10:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AllCategoriesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:10:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AllCategoriesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\CategoriesForm\\AllCategoriesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:09:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskCardControl.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskCardControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TasksForm\\TaskCardControl.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskCardControl.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TasksForm\\TaskCardControl.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAIwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:00:45.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaskCardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskCardControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TasksForm\\TaskCardControl.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskCardControl.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\TasksForm\\TaskCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:00:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TasksForm\\TaskForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\TasksForm\\TaskForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TasksForm\\TaskForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:17:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:53:40.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Entities\\Note.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Entities\\Note.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:28:50.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1.Data\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1.Data\\Entities\\Category.cs",
+              "RelativeToolTip": "WindowsFormsApp1.Data\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:32:27.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:32:48.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "catForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\catForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CategoriesForm\\catForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\catForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\CategoriesForm\\catForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:32:57.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NoteCardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\NotesForm\\NoteCardControl.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\user\\Downloads\\FinalProject\\WindowsFormsApp1\\NotesForm\\NoteCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:52:02.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryCardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\CategoryCardControl.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\CategoriesForm\\CategoryCardControl.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\FinalProjectv1\\FinalProjectv0\\FinalProject\\WindowsFormsApp1\\CategoriesForm\\CategoryCardControl.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\CategoriesForm\\CategoryCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:58:06.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
